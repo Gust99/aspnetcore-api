@@ -1,0 +1,15 @@
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\bin\Debug\netcoreapp3.1\TwoAres.Core.dll
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\obj\Debug\netcoreapp3.1\TwoAres.Data.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\obj\Debug\netcoreapp3.1\TwoAres.Data.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\obj\Debug\netcoreapp3.1\TwoAres.Data.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\bin\Debug\netcoreapp3.1\TwoAres.Data.deps.json
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\bin\Debug\netcoreapp3.1\TwoAres.Data.runtimeconfig.json
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\bin\Debug\netcoreapp3.1\TwoAres.Data.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\bin\Debug\netcoreapp3.1\TwoAres.Data.dll
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\bin\Debug\netcoreapp3.1\TwoAres.Data.pdb
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\bin\Debug\netcoreapp3.1\TwoAres.Core.pdb
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\obj\Debug\netcoreapp3.1\TwoAres.Data.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\obj\Debug\netcoreapp3.1\TwoAres.Data.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\obj\Debug\netcoreapp3.1\TwoAres.Data.dll
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\obj\Debug\netcoreapp3.1\TwoAres.Data.pdb
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Data\obj\Debug\netcoreapp3.1\TwoAres.Data.genruntimeconfig.cache

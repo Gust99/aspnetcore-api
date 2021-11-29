@@ -1,0 +1,9 @@
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\bin\Debug\netcoreapp3.1\TwoAres.Core.deps.json
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\bin\Debug\netcoreapp3.1\TwoAres.Core.dll
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\bin\Debug\netcoreapp3.1\TwoAres.Core.pdb
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\obj\Debug\netcoreapp3.1\TwoAres.Core.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\obj\Debug\netcoreapp3.1\TwoAres.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\obj\Debug\netcoreapp3.1\TwoAres.Core.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\obj\Debug\netcoreapp3.1\TwoAres.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\obj\Debug\netcoreapp3.1\TwoAres.Core.dll
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Core\obj\Debug\netcoreapp3.1\TwoAres.Core.pdb

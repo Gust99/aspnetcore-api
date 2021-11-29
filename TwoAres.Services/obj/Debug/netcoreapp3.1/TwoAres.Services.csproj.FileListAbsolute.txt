@@ -1,0 +1,12 @@
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\bin\Debug\netcoreapp3.1\TwoAres.Services.deps.json
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\bin\Debug\netcoreapp3.1\TwoAres.Services.dll
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\bin\Debug\netcoreapp3.1\TwoAres.Services.pdb
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\bin\Debug\netcoreapp3.1\TwoAres.Core.dll
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\bin\Debug\netcoreapp3.1\TwoAres.Core.pdb
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\obj\Debug\netcoreapp3.1\TwoAres.Services.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\obj\Debug\netcoreapp3.1\TwoAres.Services.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\obj\Debug\netcoreapp3.1\TwoAres.Services.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\obj\Debug\netcoreapp3.1\TwoAres.Services.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\obj\Debug\netcoreapp3.1\TwoAres.Services.csproj.CopyComplete
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\obj\Debug\netcoreapp3.1\TwoAres.Services.dll
+C:\Users\Usuario\source\repos\TwoAres\TwoAres.Services\obj\Debug\netcoreapp3.1\TwoAres.Services.pdb

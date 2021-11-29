@@ -1,0 +1,17 @@
+D:\source\visual\repositorio\TwoAres\TwoAres.Core\bin\Debug\netstandard2.0\TwoAres.Core.deps.json
+D:\source\visual\repositorio\TwoAres\TwoAres.Core\bin\Debug\netstandard2.0\TwoAres.Core.dll
+D:\source\visual\repositorio\TwoAres\TwoAres.Core\bin\Debug\netstandard2.0\TwoAres.Core.pdb
+D:\source\visual\repositorio\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.AssemblyInfoInputs.cache
+D:\source\visual\repositorio\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.AssemblyInfo.cs
+D:\source\visual\repositorio\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.csproj.CoreCompileInputs.cache
+D:\source\visual\repositorio\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.dll
+D:\source\visual\repositorio\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.pdb
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\bin\Debug\netstandard2.0\TwoAres.Core.deps.json
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\bin\Debug\netstandard2.0\TwoAres.Core.dll
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\bin\Debug\netstandard2.0\TwoAres.Core.pdb
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.csprojAssemblyReference.cache
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.dll
+C:\Users\Usuario\Downloads\TwoAres\TwoAres\TwoAres.Core\obj\Debug\netstandard2.0\TwoAres.Core.pdb
